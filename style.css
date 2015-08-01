@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#careertitle{
+	font-weight: bold;
+	color:#0052CC;
+}
+#score{
+	font-family:Arial, Helvetica, sans-serif;
+}
+#description{
+	font-family:Arial, Helvetica, sans-serif;
+}
